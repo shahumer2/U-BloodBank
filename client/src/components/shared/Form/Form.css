@@ -1,0 +1,23 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Damion&family=EB+Garamond:ital,wght@1,700&family=Josefin+Sans:wght@100&family=Lumanosimo&family=Roboto+Serif:wght@100&family=Zeyada&display=swap');
+
+
+
+
+.butt{
+    display: flex;
+    margin-left: 5rem ;
+    margin-top: -2rem ;
+}
+p{
+    margin-right: 10px;
+}
+.email{
+    display: flex,
+    
+
+}
+h1{
+    font-family: 'EB Garamond', serif;
+    color: yellowgreen;
+}
